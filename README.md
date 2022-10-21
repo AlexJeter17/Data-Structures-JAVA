@@ -6,3 +6,5 @@ This is my repository for practicing and adding new Data Structures.
 *Array List*
 
 *Array Stack*
+
+*Singly Linked List*
