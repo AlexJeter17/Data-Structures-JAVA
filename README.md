@@ -8,3 +8,5 @@ This is my repository for practicing and adding new Data Structures.
 *Array Stack*
 
 *Singly Linked List*
+
+*Queue*
